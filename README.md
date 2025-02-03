@@ -13,3 +13,6 @@ This board is perfect for those just starting in robotics, easy to program and h
 - On/Off Switch
 - M2 mounting holes for secure mounting
 - XH connectors for the motors
+# Photos
+![alt text](https://github.com/DENJU-DIVISION/Tei-Board/blob/main/Tei%20Board%20front.png)
+![alt text](https://github.com/DENJU-DIVISION/Tei-Board/blob/main/Tei%20Board%20back.png)
