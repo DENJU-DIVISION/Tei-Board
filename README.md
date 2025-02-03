@@ -1,4 +1,4 @@
-#Tei board 帝
+# Tei board 帝
 The Tei Board is a PCB designed mainly for minisumo robots, but it can be used for other projects or categories.\
 It's a simple begginer-level PCB, uses mostly SMD components that are easy to find and solder, so it should be really simple to build.\
 The processor is a Arduino Nano, and the motor driver is the TB6612FNG both very cheap and easy to find components.\
